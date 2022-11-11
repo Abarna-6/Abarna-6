@@ -5,8 +5,13 @@
 - 🌱 I’m currently learning Java Programming (Java 8 & Java 11) along with Data Structures, Problem Solving and Algorithms. 
 
 - 📫 For queries please reach out to @ codecracker2912@gmail.com
-**My Buddies :**
+
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+   **My Buddies :**
 ![](https://visitor-badge.laobi.icu/badge?page_id=Abarna-6.Abarna-6) 
+</details>
+
 
 **Inspiring**
 [![Github](https://img.shields.io/github/followers/Abarna-6?label=Follow&style=social)](https://github.com/Abarna-6)
