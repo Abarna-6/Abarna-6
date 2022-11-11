@@ -50,7 +50,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abarna-6"/>
  
 ** Ideology**
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abarna-6&repo=API-Gateway-for-Serverless-Applications"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abarna-6&repo=Amazon-API-Gateway"/>
 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
