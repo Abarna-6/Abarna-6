@@ -1,5 +1,5 @@
 - <h1 align="center">Hi 👋, I'm Abarna S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> I’m interested in Full Stack Development, especially Backend Development. I am using technologies like Java8, Spring Boot, Microservices, Hibernate, Restful Web Services. Currently I are using Lambda Expression, Functional Interface, Date Time API's in our Credit and Debit card transaction processing system. Utilizing Spring Boot as a Web Application Framework with its defined annotations such as @Service @Repository @Component. Worked under Junit test cases with JACOCO code coverage as well. Apart from Java 8, I have also created login web page application using React JS. I have also worked under Restful Web Services as well. We are using PostGreSql database and using Postman for Database updation to be done. Having good exposure in Java 8 developed functional interfaces for Debit card transaction. We have also used Jenkins Build for continuous integration and Continuous Deployment (CI / CD) pipelines. Having good exposure in developing using application server such as Tomcat and JBOSS. Having exposure with Scripting languages such as HTML and CSS. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abarna-6&label=Profile%20views&color=0e75b6&style=flat" alt="abarna-6" /> </p>
 
