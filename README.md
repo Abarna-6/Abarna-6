@@ -63,6 +63,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
  
 <img src="https://uploadnow.io/files/xZMYQz3">  
+    
+    ![alt text](https://uploadnow.io/files/xZMYQz3)
  
  <a href="https://github.com/Abarna-6" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
