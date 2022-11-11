@@ -7,8 +7,9 @@
 - 📫 For queries please reach out to @ codecracker2912@gmail.com
 <p align="center">
  <a href="https://github.com/Abarna-6" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <br />
+ &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/abarna-s/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ &nbsp;&nbsp;
  <a href="mailto:abarna.amle@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
