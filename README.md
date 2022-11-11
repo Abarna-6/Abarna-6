@@ -62,7 +62,7 @@
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
  
-<img src="https://ci3.googleusercontent.com/mail-img-att/AFCqZUQoHdSq1BzrAlHTG_ILXLqPR0497OfVRAuG3nMSeNWMP8rUffMr1-l_Dq2QEyczvsHBZu3YugsfR4p3l9FchxfZ1YBr-OoUGDBUyViaGXCTim1srJxBhOAo_VfS7FbuQ91tqpQnrBRz6nyImtURqlW-PUtcosWagQl_wILA4e8qo2wwBeZPFDZznxtfvKuapA3CnxkYpDbds0edF8oEmh0JlpocFuTjF1K2018JykFZIYnYddSsgXbVLXe_9R5hAENjYLd5FLy__sqeMVruSwzDZB1G5NNtO0uBQOUVi1gdRKDwhc4BU8gqjbJz42UO5pY3CxqpQKhVLuqrf0BVQ6E6oKxcGIzdym0AEkrkxS6LDBQ_-vriS3tBQxXaVo3PBU9Mzy5oh-50tOyDRj8vNrwoe0y4Nqp8ChbPK9sfAl7LoAvYaATW6IH38o4TwqOwBEEEqlMpf2_L6EL2bYFweIDdznMfHXeC-e-Vp2wHPdRTBMNItWidQJX8ywoj-W12wqP8ClmC3R4k2e0wWhjqsfIVWjnImczbkqw2WEQCNIbrkpk7j1m4AdEX3_mkvkHmqHM6RytCEFNUePiAa84P9132ic8tGrrD5PL0Ygs3tPtyuwLEcu7NX-Rrzy0UBp_7p_VX8T3aUXwktjMkB_vXxzk7Hhk8q-PACC2MrT4QEMuORFHkZ_Gn6WQ0LGOl-EUsofKUPqn7vxUMOqTe9kPrbWEIgI0h8RGJUMnu5ltQxshxETIurDHn3S5r_dTY8R0F2Qci9V44oBdZ9ev7__DxXiQipzgh_1v3v1H8TW_rDzsyOk6eBfvEn9PRcXsPs8j0zSRDuHIs5yZS4-4T_K1yRKBsAE4qEeOaEhgGQD-wWqFapKOgUqkWp1sPzZiw39VZ1SLpLe-WywBbU7LQr21ArhYQMqYX3rCRkN7cOpQZCt-V20TrAqG9VYE9FJOWky_O8RZl5KTechhhkJ57yxAzt203pdNxv-5JZCtude2x7iV8Ow=s0-l75-ft">  
+<img src="https://uploadnow.io/files/xZMYQz3">  
  
  <a href="https://github.com/Abarna-6" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
