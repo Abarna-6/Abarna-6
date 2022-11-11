@@ -5,10 +5,14 @@
 - 🌱 I’m currently learning Java Programming (Java 8 & Java 11) along with Data Structures, Problem Solving and Algorithms. 
 
 - 📫 For queries please reach out to @ codecracker2912@gmail.com
+<p align="center">
+ <a href="https://github.com/Abarna-6" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
-![Abarna's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<br />
 
-<!---
 Abarna-6/Abarna-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
