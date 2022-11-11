@@ -9,6 +9,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Abarna-6.Abarna-6)
 **Inspiring**
 [![Github](https://img.shields.io/github/followers/Abarna-6?label=Follow&style=social)](https://github.com/Abarna-6)
+**Commits**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abarna-6&show_icons=true&theme=tokyonight)
 <p align="center">
  <a href="https://github.com/Abarna-6" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
