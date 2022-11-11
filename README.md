@@ -7,12 +7,12 @@
 - 📫 For queries please reach out to @ codecracker2912@gmail.com
 
 <details>
-    <summary><b>✨About Me</b></summary><br/>
-   **My Buddies :**
-![](https://visitor-badge.laobi.icu/badge?page_id=Abarna-6.Abarna-6) 
+    <summary><b>✨Programming Languages</b></summary><br/>
+   Java 8, Spring Boot, Microservices, Hibernate, Restful Web Services
 </details>
 
-
+  **My Buddies :**
+![](https://visitor-badge.laobi.icu/badge?page_id=Abarna-6.Abarna-6) 
 **Inspiring**
 [![Github](https://img.shields.io/github/followers/Abarna-6?label=Follow&style=social)](https://github.com/Abarna-6)
 
