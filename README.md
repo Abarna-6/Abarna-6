@@ -29,7 +29,6 @@
 
 - 🌱 I’m currently learning Java Programming (Java 8 & Java 11) along with Data Structures, Problem Solving and Algorithms. 
 
-- 📫 For queries please reach out to @ codecracker2912@gmail.com
 
 <details>
     <summary><b>✨Programming Languages</b></summary><br/>
